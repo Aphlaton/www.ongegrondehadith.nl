@@ -27,7 +27,7 @@ vinden we de volgende definitie:
 > de manier van de profeet. Voor de overgrote meerderheid van de moslims
 > vormen de Hadith een aanvulling op en interpretatie van de Koran.
 
-Tegenwoordig betekend het woord 'hadith' iets anders dan in de Koran,
+Tegenwoordig betekent het woord 'hadith' iets anders dan in de Koran,
 om verwarring te voorkomen wordt in deze tekst de term *hadith-collecties*
 gebruikt om deze moderne betekenis aan te duiden.
 
@@ -48,7 +48,7 @@ de hadith-collecties:
 * ...worden gebruikt voor het interpreteren en vertalen van de Koran.
 * ...zichzelf en de Koran op vele punten tegenspreken.
 * ...compleet achterlijke normen, waarden en regels voorschrijven.
-* ...slavernij goedkeuren (terwijl de Koran dat veroordeeld).
+* ...slavernij goedkeuren (terwijl de Koran dat veroordeelt).
 * ...absurde verhalen bevatten.
 * ...niet makkelijk zijn.
 
@@ -72,7 +72,7 @@ te lezen en te begrijpen!
 De moderne betekenis van het woord *hadith* is "overleveringen over het
 doen en laten en de uitspraken van Mohammed". In de Koran wordt het woord
 *hadith* 26 keer gebruikt, maar met een compleet andere betekenis.  In
-het Arabisch waarin de Koran is opgeschreven betekend *hadith*:
+het Arabisch waarin de Koran is opgeschreven betekent *hadith*:
 vertellingen, overlevering, verhaal of gezegden.  Aangezien de
 hadith-collecties zoals wij die kennen pas 200 jaar na de openbaring van
 de Koran zijn samengesteld, was Mohammed onbekend met de moderne
@@ -98,7 +98,7 @@ We kunnen de volgende opmerkelijke conclusies trekken uit deze verzen:
    als leidraad voor de gelovigen.
 
 4. In vers 31:6 lezen we dat er mensen zijn die "ongefundeerde *hadith*
-   accepteren" wat tot "afdwalen van het pad van God" leid.  Het woord
+   accepteren" wat tot "afdwalen van het pad van God" leidt.  Het woord
    *hadith* draagt hier logischerwijs de algemene betekenis (vertelling,
    overlevering, etc.)
 
@@ -121,7 +121,7 @@ van Hem afkomstig is?  Eén van deze verzen luidt:
 > waarheid. Dus, welke overlevering (hadith), na God en zijn tekenen,
 > erkennen zij?
 
-Als iemand ons verteld dat er vanuit de Koran wordt verwezen naar de
+Als iemand ons vertelt dat er vanuit de Koran wordt verwezen naar de
 hadith-collecties dan kunnen we met zekerheid vaststellen dat deze
 persoon slecht is voorgelicht en/of geen eigen onderzoek heeft gedaan.
 
@@ -139,7 +139,7 @@ Vergeet daarbij niet:
   hadith-collectie geïnspireerde vertalingen).
 
 * God te vragen ons te leiden in onze zoektocht naar de waarheid.
-  Zoals de Koran vaak herhaald: Hij leidt wie Hij wil.
+  Zoals de Koran vaak herhaalt: Hij leidt wie Hij wil.
   De kwaliteiten van mensen die Hij tot zich leidt worden eveneens
   genoemd in de Koran.
 
@@ -152,7 +152,7 @@ hoofdstukken.
 Er zijn in totaal ongeveer 700.000 hadith-collectie-stukken.  Aangezien
 een stukje hadith-collectie gewoonlijk veel meer tekst bevat dan een vers
 in de Koran vullen ze samen een grote boekenkast of een kleine
-bibliotheek.  Meestal word slechts 1% betrouwbaar (sahie) geacht door de
+bibliotheek.  Meestal wordt slechts 1% betrouwbaar (sahie) geacht door de
 samenstellers van de 'populaire hadith-collecties':
 
 * *Al-Bukhari* verzamelde ongeveer 600.000 stukken en accepteerde er
@@ -168,14 +168,14 @@ Deze populaire hadith-collecties behoeven op zijn minst een boekenplank.
 
 Hieronder worden de veel gebruikte *Koran interpretatie trucs*
 één-voor-één weerlegd.  Volgens deze trucs zouden de hadith-collecties
-hun autoriteit ontlenen van de Koran.  Maar niets is minder waar, de
+hun autoriteit ontlenen van de Koran. Maar niets is minder waar, de
 Koran waarschuwt ons juist voor deze "ongegronde overleveringen".
 
 
 ## Truc 1: "Gehoorzaam de boodschapper"
 
 Een veel gebruikt argument om de hadith-collecties autoriteit te geven
-is dat er in de Koran staat "gehoorzaam de boodschapper".  Inderdaad
+is dat er in de Koran staat "gehoorzaam de boodschapper". Inderdaad
 vinden we in de Koran deze instructie in verschillende vormen (3:132;
 4:13,59,69,80; 5:92; 9:71; 24:52,54,56; 33:36,71; 49:14; 64:12).  Maar
 is deze instructie genoeg om hadith-collecties autoriteit te geven of
@@ -194,8 +194,7 @@ volgen.  Bijvoorbeeld: in de Koran staat herhaaldelijk dat we door gebed
 en moreel gedrag dichter tot God kunnen komen.  Ook lezen we in de Koran
 over Mohammed, zoals God dat tot ons heeft neer gezonden!
 
-Minder voor de hand liggend is om te proberen de boodschapper's
-doen-en-laten te volgen aan de hand van overleveringen die eerst meer
+Minder voor de hand liggend is om te proberen het doen en laten van de boodschapper te volgen aan de hand van overleveringen die eerst meer
 dan 200 jaar mondeling zijn overgeleverd.  En het kleine deel (~1%) van deze
 overleveringen dát betrouwbaar wordt geacht, is op vele punten
 in tegenspraak met de Koran en zichzelf.
@@ -239,7 +238,7 @@ Het lijkt voor de hand liggend om dat te doen door: (1) zijn goede
 handelen en instructies die hij kreeg van God **zoals beschreven in Zijn
 Koran** als voorbeeld te nemen, en (2) het enige dat hij mocht
 onderwijzen van God -- de Koran -- te accepteren.  En aangezien God ons
-verbied onderscheid te maken tussen Gods boodschappers (2:136), moeten
+verbiedt onderscheid te maken tussen Gods boodschappers (2:136), moeten
 we de andere boodschappers -- over wie ook veel staat geschreven in de
 Koran -- op een gelijke manier als voorbeelden/onderwijzers nemen.
 
@@ -264,9 +263,9 @@ sharia-rechtspraak botst zelfs op vele punten met de leringen van de
 Koran: zo worden vrouwen achtergesteld, slavernij goedgekeurd en
 gruwelijke straffen op relatief kleine vergrijpen voorgeschreven.
 
-Een belangrijk voorbeeld zo'n contradictie is de sharia-wet die voor het
+Een belangrijk voorbeeld van zo'n contradictie is de sharia-wet die voor het
 verlaten van de islam-religie de doodstraf voorschrijft.
-Middels het volgende Koran-vers bepaald God voor ons het tegenovergestelde:
+Middels het volgende Koran-vers bepaalt God voor ons het tegenovergestelde:
 
 > 2:256 Er is geen dwang in de religie; de juist weg is duidelijk te
 > onderscheiden van de foute weg. [...]
@@ -289,7 +288,7 @@ accepteren:
 
 > 59:7 Hetgeen God Zijn boodschapper in voorzag [...] zal niet
 > gemonopoliseerd worden de rijken onder jullie. Jullie mogen nemen van
-> de boodschapper jullie geeft, maar neem niet wat hij jullie onthoud.
+> wat de boodschapper jullie geeft, maar neem niet wat hij jullie onthoudt.
 > [...]
 
 We kunnen de volgende conclusies trekken uit dit prachtige vers:
@@ -339,7 +338,7 @@ volgen!
 
 In de verzen 5:48-50 wordt Mohammed door God opgedragen slechts dat wat
 God aan hem heeft geopenbaard, de Koran, te gebruiken om mensen te leiden.
-De kleinste afwijking zou de profeet al een zware staf opleveren
+De kleinste afwijking zou de profeet al een zware straf opleveren
 (17:73-75; 10:15-18).
 
 
@@ -364,9 +363,9 @@ zij die:
 
 De context van dit vers, die lijkt te beginnen in vers 9:23 of 9:25, is
 die van een oorlogstijd; er wordt gesproken over bondgenoten, vijanden,
-overwinningen, slagvelden en soldaten.  Het is duidelijk dat dit geweld
-alleen is toegestaan ten tijden van oorlog; dit omdat de Koran in andere
-verzen verzoening en gelijkmoedigheid jegens ongelovigen
+overwinningen, slagvelden en soldaten. Het is duidelijk dat dit geweld
+alleen is toegestaan ten tijde van oorlog; dit omdat de Koran in andere
+verzen verzoening en lankmoedigheid jegens ongelovigen
 voorschrijft (2:224,256; 10:99; 15:2-3; 18:29; 45:14; 109:1-6; etc).
 Het bevechten van die groep moet stoppen als zij "in bescheidenheid" een
 "schadeloosstelling" hebben betaald -- deze "schadeloosstelling" wordt
@@ -374,7 +373,7 @@ soms uitgelegd als een belasting, maar in de Koran is hier niets over
 te vinden.
 
 Het vers 9:29 is erg interessant, vooral met betrekking tot
-oorlogssituaties, maar bied geen enkele rede om hadith-collecties te
+oorlogssituaties, maar biedt geen enkele reden om hadith-collecties te
 accepteren.
 
 
@@ -412,15 +411,15 @@ De tweede betekenis is veel logischer: God heeft de Koran persoonlijk
 aan Mohammed geopenbaard vervolgens heeft hij deze verkondigd -- een
 betekenis die geen enkel ander vers van de Koran tegenspreekt.
 
-In het volgende vers verkondigd God het effect van meervoudige
-betekenissen in de Koran op "zij die een zieke in hun harten hebben":
+In het volgende vers verkondigt God het effect van meervoudige
+betekenissen in de Koran op "zij die een ziekte in hun harten hebben":
 
 > 3:7 Hij is Diegene die het boek tot jou neerzond -- daarin zijn
 > duidelijke tekenen, zij zijn de essentie van het boek; en andere die
 > hebben meerdere betekenissen hebben.
 > Zij die een ziekte in hun hart hebben verlangen verwarring te
 > veroorzaken en verlangen de interpretatie ervan te verdraaien, zij
-> zullen de meerdere betekenissen volgen.  Maar niemand weet hun
+> zullen de meerdere betekenissen volgen. Maar niemand weet hun
 > betekenis behalve God en zij die goed onderlegt zijn in kennis;
 > zij zeggen, "Wij erkennen het, alles is van onze Heer."  Niemand zal
 > het herinneren behalve de mensen met verstand.
@@ -429,12 +428,12 @@ Dit vers stelt ook dat er een groep mensen is die wel weten wat de
 betekenis is, namelijk zij die "zich stevig baseren op kennis", en
 zeggen, "Wij erkennen het, alles is van onze Heer".  Het lijkt er
 trouwens op dat in het zojuist genoemde statement met de woorden "het"
-en "alles" de Koran bedoelt word.
+en "alles" de Koran bedoeld wordt.
 
 
 ## Truc 9: Inspelen op traditie
 
-Dit is de laatste en waarschijnlijk de meest gebruikte truc.  Voor deze
+Dit is de laatste en waarschijnlijk de meest gebruikte truc. Voor deze
 truc verwijst men niet naar wat er in de Koran staat, maar naar wat er
 niet in staat.
 
@@ -450,7 +449,7 @@ niet voldoende gedetailleerd is:
 * Kledingvoorschriften.
 * De sharia-rechtspraak.
 
-Dat dit een cirkel-redenering betreft is overduidelijk: na eeuwen
+Dat dit een cirkelredenering betreft is overduidelijk: na eeuwen
 te zijn beïnvloed door hadith-collecties zijn allerlei tradities
 ontstaan onder de moslims, nu worden die tradities gebruikt om de
 noodzaak van de hadith-collecties te onderstrepen.
@@ -617,9 +616,9 @@ acknowledge.
 > gewetensvollen.
 
 > 18:1-2 Alle lof komt God toe Die het Boek tot Zijn dienaar heeft geopenbaard
-> en daarin geen kromte heeft gemaakt. Recht leidend.
+> en daarin geen afwijking heeft gemaakt. Rechtleidend.
 
-> 39:28 Een Arabische Koran zonder enige kromheid, opdat zij zich zullen
+> 39:28 Een Arabische Koran zonder enige afwijking, opdat zij zich zullen
 > hoeden.
 
 > 43:4 En waarlijk is de Oorsprong van het Boek bij Ons, waarlijk verheven,
@@ -632,13 +631,13 @@ acknowledge.
 > 25:30 De boodshapper zei, "Mijn Heer, mijn mensen hebben deze Koran
 > verlaten."
 
-De Koran (*Al-Qur'an*) is een naam, het betekend *De Oplezing* of *De
+De Koran (*Al-Qur'an*) is een naam, het betekent *De Oplezing* of *De
 Voordracht*.  Op deze manier word ons duidelijk dat er geen andere Koran
-is dan deze; wanneer de Koran spreek over andere geschriften dan word de
+is dan deze; wanneer de Koran spreekt over andere geschriften dan word de
 naam van het betreffende geschrift gebruikt, zoals Bijbel (*Injeel*) en
 Thora (*Torah*).
 
-De Koran duid zichzelf ook aan met andere woorden, zoals: boek
+De Koran duidt zichzelf ook aan met andere woorden, zoals: boek
 (*kitab*), bericht/herinnering (*zekr*), onderscheidmaker (*furqan*) en
 geopenbaarde (*tanzil*).  In tegenstelling tot de naam 'Koran' worden
 deze woorden ook voor andere geschriften gebruikt.  De volgende
@@ -660,7 +659,7 @@ de naam 'Koran' wordt gebruikt om het boek aan te duiden:
 * de Koran is wat de volgelingen van de profeet hebben verlaten (25:30)
 * de Koran is zonder twijfel geopenbaard door een hogere macht (27:6)
 * de Koran moet met aandacht gelezen worden (7:204)
-* de Koran verward de ondankbaren met haar woorden (10:15)
+* de Koran verwart de ondankbaren met haar woorden (10:15)
 * de Koran geeft detail aan de goddelijke wetten (10:38)
 * de Koran is gerelateerd aan de zeven paren (15:87)
 * de Koran maakt een barrière voor hen die hem verwerpen (17:46)
@@ -669,7 +668,7 @@ de naam 'Koran' wordt gebruikt om het boek aan te duiden:
 * de Koran wordt opgelezen bij het ochtendgloren (17:78)
 * de Koran zit vol voorbeelden voor de mensheid (17:89)
 * de Koran bevat de herinnering (*zikr*) (38:1)
-* de Koran wordt afgeraden door zij die afwijzen en zij moedigen aan hem
+* de Koran wordt afgeraden door degenen die afwijzen en zij moedigen aan hem
   te overstemmen (41:26)
 
 
